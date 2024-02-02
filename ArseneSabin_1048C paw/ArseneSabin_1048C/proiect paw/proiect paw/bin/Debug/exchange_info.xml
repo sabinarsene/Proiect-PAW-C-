@@ -1,0 +1,45 @@
+Currency Code: CHF
+Exchange Currency Code: EUR
+TextBox1 Value: 123
+TextBox2 Value: 113.50268680631546037204939816
+-----------
+Currency Code: BRL
+Exchange Currency Code: CNY
+TextBox1 Value: 123
+TextBox2 Value: 82.27
+-----------
+Currency Code: DKK
+Exchange Currency Code: BRL
+TextBox1 Value: 500
+TextBox2 Value: 660.47
+-----------
+Currency Code: AED
+Exchange Currency Code: EUR
+TextBox1 Value: 123
+TextBox2 Value: 462.73
+-----------
+Currency Code: AUD
+Exchange Currency Code: EUR
+TextBox1 Value: 123
+TextBox2 Value: 190.27
+-----------
+Currency Code: CHF
+Exchange Currency Code: GBP
+TextBox1 Value: 123
+TextBox2 Value: 130.35
+-----------
+Currency Code: BGN
+Exchange Currency Code: BGN
+TextBox1 Value: 123
+TextBox2 Value: 116.85
+-----------
+Currency Code: BRL
+Exchange Currency Code: BRL
+TextBox1 Value: 123
+TextBox2 Value: 129.15
+-----------
+Currency Code: CAD
+Exchange Currency Code: CAD
+TextBox1 Value: 123
+TextBox2 Value: 129.15
+-----------

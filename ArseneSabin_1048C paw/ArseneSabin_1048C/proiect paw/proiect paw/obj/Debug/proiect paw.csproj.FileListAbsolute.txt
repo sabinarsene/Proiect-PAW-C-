@@ -1,0 +1,59 @@
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\bin\Debug\proiect paw.exe.config
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\bin\Debug\proiect paw.exe
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\bin\Debug\proiect paw.pdb
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.AssemblyReference.cache
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect_paw.Form1.resources
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.GenerateResource.cache
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.CoreCompileInputs.cache
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect paw.exe
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect paw.pdb
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect_paw.Form3.resources
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect_paw.Form4.resources
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect_paw.fisier.resources
+C:\Users\Sabin\source\repos\paw\proiect paw\proiect paw\obj\Debug\proiect_paw.Properties.Resources.resources
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.AssemblyReference.cache
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.fisier.resources
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form1.resources
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form3.resources
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form4.resources
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Properties.Resources.resources
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.GenerateResource.cache
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.CoreCompileInputs.cache
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.exe
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.pdb
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.exe.config
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.exe
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.pdb
+C:\Users\Sabin\Downloads\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form2.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.exe.config
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.exe
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.pdb
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.AssemblyReference.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.fisier.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form1.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form2.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form3.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form4.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Properties.Resources.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.GenerateResource.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.CoreCompileInputs.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.exe
+C:\Users\Sabin\Desktop\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.pdb
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.exe.config
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.exe
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\bin\Debug\proiect paw.pdb
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.AssemblyReference.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.fisier.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form1.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form2.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form3.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Form4.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect_paw.Properties.Resources.resources
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.GenerateResource.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.CoreCompileInputs.cache
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.exe
+C:\Users\Sabin\Desktop\ArseneSabin_1048C paw\ArseneSabin_1048C\proiect paw\proiect paw\obj\Debug\proiect paw.pdb
